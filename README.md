@@ -21,6 +21,7 @@
 - [Big o Cheatsheet - Data structures and Algorithms with thier complexities](https://www.hackerearth.com/practice/notes/big-o-cheatsheet-series-data-structures-and-algorithms-with-thier-complexities-1/)
 - [Big O Cheat Sheet](https://github.com/ReaVNaiL/Big-O-Complexity-Cheat-Sheet)
 - [https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 ### C++ STL:
 - Website:
   - [Standard Template Library (STL) in C++](https://www.geeksforgeeks.org/cpp/the-c-standard-template-library-stl/)
