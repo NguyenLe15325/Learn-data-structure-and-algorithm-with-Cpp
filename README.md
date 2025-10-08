@@ -35,6 +35,15 @@
 ### Algorithm:
 - [Most important type of Algorithms](https://www.geeksforgeeks.org/dsa/most-important-type-of-algorithms/)
 - [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
+- Algorithm visulization:
+  - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+  - [Algorithm Visualizer Interactive visualizations to help you understand how algorithms work step-by-step](https://algorithm-visualizer.seancoughlin.me/)
+  - [CS 1332 Data Structures & Algorithms Visualization Tool](https://csvistool.com/)
+  - [algo-vz.netlify.app/](https://algo-vz.netlify.app/)
+  - [Algorithms-Visualization/](https://elysian01.github.io/Algorithms-Visualization/)
+  - [Hackerearth](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/visualize/)
+  - [algorithm-visualizer.org/](https://algorithm-visualizer.org/)
+  - [VisuAlgo.net/en](https://visualgo.net/en)
 - Repo:
     - [algorithm and data structure cheat sheet](https://github.com/tajpouria/algorithms-and-data-structures-cheat-sheet)
     - [Algorithms cheat sheet](https://github.com/raviranjan3570/Algorithms-cheat-sheet-for-interview)
