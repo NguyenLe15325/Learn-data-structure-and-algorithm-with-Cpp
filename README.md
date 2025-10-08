@@ -22,18 +22,27 @@
 - [Big O Cheat Sheet](https://github.com/ReaVNaiL/Big-O-Complexity-Cheat-Sheet)
 - [https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-### C++ STL:
-- Website:
-  - [Standard Template Library (STL) in C++](https://www.geeksforgeeks.org/cpp/the-c-standard-template-library-stl/)
-  - [Containers in C++ STL](https://www.geeksforgeeks.org/cpp/containers-cpp-stl/)
-- Tutorial:
-  - [Complete C++ STL in 1 Video | Time Complexity and Notes](https://www.youtube.com/watch?v=RRVYpIET_RU)
-  - [Back To Basics: C++ Containers](https://www.youtube.com/watch?v=6OoSgY6NVVk)
-  - [C++ STL (Standard Template Library)](https://www.youtube.com/watch?v=BKBXM7ypQG0&list=PL1w8k37X_6L9NXrP1D31hDTKcdAPIL0cG)
+### Data Structure:
+- [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
+- C++ STL:
+  - Website:
+    - [Standard Template Library (STL) in C++](https://www.geeksforgeeks.org/cpp/the-c-standard-template-library-stl/)
+    - [Containers in C++ STL](https://www.geeksforgeeks.org/cpp/containers-cpp-stl/)
+  - Tutorial:
+    - [Complete C++ STL in 1 Video | Time Complexity and Notes](https://www.youtube.com/watch?v=RRVYpIET_RU)
+    - [Back To Basics: C++ Containers](https://www.youtube.com/watch?v=6OoSgY6NVVk)
+    - [C++ STL (Standard Template Library)](https://www.youtube.com/watch?v=BKBXM7ypQG0&list=PL1w8k37X_6L9NXrP1D31hDTKcdAPIL0cG)
 ### Algorithm:
+- [Most important type of Algorithms](https://www.geeksforgeeks.org/dsa/most-important-type-of-algorithms/)
+- [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
+- Repo:
+    - [algorithm and data structure cheat sheet](https://github.com/tajpouria/algorithms-and-data-structures-cheat-sheet)
+    - [Algorithms cheat sheet](https://github.com/raviranjan3570/Algorithms-cheat-sheet-for-interview)
 - Sorting algorithm:
   - Youtube:
     - [Sorting Algorithms: Selection Sort and Insertion Sort](https://www.youtube.com/watch?v=mVpxeSoEW5E)
     - [Selection Sort Vs Insertion Sort - Computer Science](https://www.youtube.com/watch?v=yEF6QCmRu78)
   - Website:
     - [Sorting Algorithms](https://www.geeksforgeeks.org/dsa/sorting-algorithms/)
+    - [Sorting Algorithm Cheat Sheet](https://www.interviewcake.com/sorting-algorithm-cheat-sheet)
+    - [Sorting Algorithm Cheat Sheet neetcode](https://neetcode.io/courses/lessons/sorting-algorithms)
