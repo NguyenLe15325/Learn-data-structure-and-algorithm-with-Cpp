@@ -9,6 +9,7 @@
 - [Tech With Tim](https://www.youtube.com/@TechWithTim)
 - [CS50](https://www.youtube.com/@cs50/courses)
 - [HuXn WebDev](https://www.youtube.com/@huxnwebdev)
+- [take U forward](https://www.youtube.com/@takeUforward)
 ## Data Structure and Algorithm:
 ### Books:
 - [DATA STRUCTURES AND ALGORITHM ANALYSIS IN C++](https://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/DataStructures.pdf)
