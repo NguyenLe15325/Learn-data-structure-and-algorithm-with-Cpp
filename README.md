@@ -1,4 +1,6 @@
-# C-Cpp-Programming
+# Introduction
+- This repository contain [Gemini AI](https://gemini.google.com/app) generated C++ code implementation for demonstrating data structure and algorithm concept.
+# Useful DSA learning resources 
 ## Youtube tutorial channel:
 - [Portfolio Courses](https://www.youtube.com/@PortfolioCourses/playlists)
 - [Bro Code](https://www.youtube.com/@BroCodez)
