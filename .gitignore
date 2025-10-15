@@ -3,3 +3,6 @@
 
 # Optional: You might also want to ignore object files from the compilation
 *.o
+
+# Ignore the entire VS Code folder by default
+.vscode/*
