@@ -1,0 +1,5 @@
+# Ignore all executable files
+*.exe
+
+# Optional: You might also want to ignore object files from the compilation
+*.o
