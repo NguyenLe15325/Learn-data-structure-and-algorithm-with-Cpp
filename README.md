@@ -33,7 +33,7 @@
 
 ## 🎯 About
 
-This repository contains **AI-generated C++ code implementations** (powered by [Gemini AI](https://gemini.google.com/app)) designed to demonstrate and teach:
+This repository contains **AI-generated C++ code implementations** (powered by [Gemini AI](https://gemini.google.com/app), [DeepSeek](https://www.deepseek.com/), [ChatGPT](https://chat.openai.com/), and [Claude](https://claude.ai/)) designed to demonstrate and teach:
 
 - ⚙️ **Data Structures & Algorithms** - Core computational concepts
 - 🎨 **Object-Oriented Programming** - Design principles and patterns
@@ -528,8 +528,7 @@ This project is open source and available for educational purposes. Feel free to
 
 ## 🙏 Acknowledgments
 
-- **Gemini AI** for assisting with code generation
-- **Claude AI (Anthropic)** for helping structure and document this repository
+- **Gemini AI**, **DeepSeek AI**, **ChatGPT (OpenAI)**, and **Claude AI (Anthropic)** for generating code implementations and assisting with repository documentation
 - All the amazing **educators and content creators** linked in this repository
 - The **open-source community** for continuous inspiration and support
 - **Contributors** who help improve this repository
