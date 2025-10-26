@@ -20,14 +20,20 @@
 
 - [About](#-about)
 - [Features](#-features)
-- [Repository Structure](#-repository-structure)
+- [Topics Covered](#-topics-covered)
 - [Getting Started](#-getting-started)
 - [Learning Path](#-learning-path)
 - [Learning Resources](#-learning-resources)
+- [Recommended Reading](#-recommended-reading)
 - [Complexity References](#-complexity-references)
 - [Visualization Tools](#-visualization-tools)
-- [Recommended Reading](#-recommended-reading)
+- [C++ STL Reference](#-c-stl-reference)
 - [Contributing](#-contributing)
+- [Complete Learning Checklist](#-complete-learning-checklist)
+- [Why This Repository](#-why-this-repository)
+- [Tips for Success](#-tips-for-success)
+- [Additional Resources](#-additional-resources)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
