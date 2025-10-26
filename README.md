@@ -529,6 +529,7 @@ This project is open source and available for educational purposes. Feel free to
 ## 🙏 Acknowledgments
 
 - **Gemini AI** for assisting with code generation
+- **Claude AI (Anthropic)** for helping structure and document this repository
 - All the amazing **educators and content creators** linked in this repository
 - The **open-source community** for continuous inspiration and support
 - **Contributors** who help improve this repository
